@@ -1,0 +1,13 @@
+<resources>
+    <!-- Background colors -->
+    <color name="backgroundColor">#F5F5F5</color>  <!-- Light grey background -->
+    <color name="displayBackgroundColor">#212121</color>  <!-- Dark background for the display -->
+
+    <!-- Button colors -->
+    <color name="buttonBackground">#E0E0E0</color>  <!-- Light grey for buttons -->
+    <color name="operatorButtonBackground">#FF5722</color>  <!-- Orange for operator buttons -->
+
+    <!-- Text colors -->
+    <color name="textColor">#FFFFFF</color>  <!-- White for text on the display -->
+    <color name="buttonTextColor">#212121</color>  <!-- Dark text color for number buttons -->
+</resources>
